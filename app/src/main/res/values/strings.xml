@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Simple Messenger</string>
+    <string name="chat_title">Messages</string>
+    <string name="message_hint">Type your message</string>
+    <string name="send">Send</string>
+</resources>
